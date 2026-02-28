@@ -1,2 +1,2 @@
 # my-second-repo
-second repository
+this is my second repository
